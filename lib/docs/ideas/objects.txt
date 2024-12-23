@@ -1,0 +1,212 @@
+Object Types:-
+Weapons
+Armor
+Potions
+Scrolls
+Artifacts
+Keys
+Maps
+Herbs
+Tools
+Trinkets
+Consumables
+Crafting Materials
+Gems
+Trophies
+Charms
+Rings
+Staves
+Bows
+Magic Items
+Shields
+Books
+Idols
+Cursed Objects
+Whistles
+Fossils
+Statues
+Clothing
+Mounts
+Portals
+Bags of Holding
+
+Object Types with Properties, Traits, Buffs/Debuffs, and Costs:-
+Health Potion:
+Properties: Restores HP
+Traits: Consumable
+Buffs: Restores 50 HP
+Cost: 20 gold, 2 gems
+
+Mana Potion:
+Properties: Restores MP
+Traits: Consumable
+Buffs: Restores 30 MP
+Cost: 15 gold, 1 gem
+
+Elixir of Strength:
+Properties: Temporarily increases strength
+Traits: Consumable
+Buffs: +10 Strength for 5 minutes
+Cost: 30 gold, 3 gems
+
+Speed Boost:
+Properties: Temporarily increases speed
+Traits: Consumable
+Buffs: +20% Speed for 3 minutes
+Cost: 25 gold, 2 gems
+
+Shield Scroll:
+Properties: Provides a temporary shield
+Traits: Scroll/Consumable
+Buffs: +50 HP Shield for 5 minutes
+Cost: 40 gold, 4 gems
+
+Invisibility Cloak:
+Properties: Grants invisibility
+Traits: Equipment/Consumable
+Buffs: Grants invisibility for 30 seconds
+Cost: 100 gold, 10 gems
+
+Teleportation Stone:
+Properties: Teleports the user
+Traits: Consumable
+Buffs: Teleports to a previously visited location
+Cost: 50 gold, 5 gems
+
+Fire Bomb:
+Properties: Area damage
+Traits: Consumable/Explosive
+Buffs: Deals 30 fire damage in a radius
+Cost: 35 gold, 3 gems
+
+Ice Bomb:
+Properties: Freezes enemies
+Traits: Consumable/Explosive
+Buffs: Deals 25 damage and freezes targets for 2 seconds
+Cost: 35 gold, 3 gems
+
+Grappling Hook:
+Properties: Allows climbing or swinging
+Traits: Tool
+Buffs: Enables vertical movement to unreachable areas
+Cost: 60 gold, 6 gems
+
+Treasure Map:
+Properties: Reveals hidden treasures
+Traits: Consumable
+Buffs: Reveals nearby hidden treasures on the map
+Cost: 45 gold, 4 gems
+
+Rations:
+Properties: Restores stamina
+Traits: Consumable
+Buffs: Restores 20 stamina points
+Cost: 10 gold, 1 gem
+
+Antidote:
+Properties: Cures poison
+Traits: Consumable
+Buffs: Removes poison status
+Cost: 20 gold, 2 gems
+
+Spellbook:
+Properties: Grants new spells
+Traits: Equipment
+Buffs: Teaches a new spell upon use
+Cost: 200 gold, 15 gems
+
+Amulet of Protection:
+Properties: Increases defense
+Traits: Equipment
+Buffs: +5 Defense
+Cost: 150 gold, 12 gems
+
+Ring of Strength:
+Properties: Increases attack power
+Traits: Equipment
+Buffs: +5 Strength
+Cost: 130 gold, 10 gems
+
+Potion of Wisdom:
+Properties: Increases intelligence
+Traits: Consumable
+Buffs: +10 Intelligence for 10 minutes
+Cost: 25 gold, 3 gems
+
+Tome of Knowledge:
+Properties: Increases experience gain
+Traits: Consumable
+Buffs: +50% XP gain for 15 minutes
+Cost: 75 gold, 8 gems
+
+Climbing Boots:
+Properties: Enhances climbing ability
+Traits: Equipment
+Buffs: +10% climbing speed
+Cost: 80 gold, 7 gems
+
+Fishing Rod:
+Properties: Allows fishing
+Traits: Tool
+Buffs: Grants access to fishing locations
+Cost: 40 gold, 4 gems
+
+Lantern:
+Properties: Illuminates dark areas
+Traits: Tool
+Buffs: Increases visibility in dark areas
+Cost: 30 gold, 3 gems
+
+Herbalist Kit:
+Properties: Crafting consumables
+Traits: Tool
+Buffs: Allows crafting health and mana potions
+Cost: 50 gold, 5 gems
+
+Alchemy Set:
+Properties: Crafting potions
+Traits: Equipment
+Buffs: Increases potion effectiveness
+Cost: 100 gold, 10 gems
+
+Scroll of Teleportation:
+Properties: Instant teleportation
+Traits: Scroll
+Buffs: Teleports to a chosen location
+Cost: 70 gold, 8 gems
+
+Wishing Stone:
+Properties: Grants a wish
+Traits: Rare
+Buffs: Random beneficial effect (could vary)
+Cost: 500 gold, 50 gems
+
+Horse Whistle:
+Properties: Summons a horse
+Traits: Tool
+Buffs: Summons a horse for faster travel
+Cost: 30 gold, 3 gems
+
+Gems of Focus:
+Properties: Increases spell accuracy
+Traits: Consumable
+Buffs: +15% spell accuracy for 10 minutes
+Cost: 40 gold, 4 gems
+
+Shield of Valor:
+Properties: Increases defense
+Traits: Equipment
+Buffs: +10 Defense
+Cost: 150 gold, 12 gems
+
+Boots of Swiftness:
+Properties: Increases speed
+Traits: Equipment
+Buffs: +15% Speed
+Cost: 100 gold, 9 gems
+
+Cloak of Shadows:
+Properties: Enhances stealth
+Traits: Equipment
+Buffs: +20% stealth effectiveness
+Cost: 120 gold, 11 gems

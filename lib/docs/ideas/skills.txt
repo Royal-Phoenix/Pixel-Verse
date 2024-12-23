@@ -1,0 +1,302 @@
+Skill Types:-
+Melee Combat
+Ranged Combat
+Magic Casting
+Stealth
+Archery
+Healing
+Alchemy
+Summoning
+Crafting
+Trap Disarming
+Lockpicking
+Negotiation
+Survival
+Animal Handling
+Fire Manipulation
+Ice Manipulation
+Earth Manipulation
+Wind Manipulation
+Shadow Manipulation
+Illusion Casting
+Enchanting
+Defensive Stance
+Rage
+Meditation
+Dodge
+Counterattack
+Intimidation
+Fast Travel
+Inventory Management
+Exploration
+
+Skill Types with Full Definitions:-
+Melee Combat:
+Properties: Physical damage, close-range.
+Traits: High damage output, short range.
+Usable By: Warriors, Berserkers, Knights, Brawlers; Monsters: Goblins, Orcs, Bandits.
+Effects: Deals 50% STR damage.
+Buffs: +20% damage for 10 seconds.
+Debuffs: None.
+Requirements: 10 mana points.
+
+Ranged Combat:
+Properties: Physical damage, long-range.
+Traits: Requires aim, can hit distant targets.
+Usable By: Rangers, Rogues, Assassins, Hunters; Monsters: Archers, Snipers.
+Effects: Deals 40% DEX damage.
+Buffs: +15% critical hit chance for 10 seconds.
+Debuffs: None.
+Requirements: 8 mana points.
+
+Magic Casting:
+Properties: Elemental or arcane damage, variable range.
+Traits: Can target multiple enemies.
+Usable By: Mages, Sorcerers, Necromancers, Elementalists, Witches; Monsters: Warlocks, Elemental Beasts.
+Effects: Deals 60% INT damage.
+Buffs: +25% spell power for 5 seconds.
+Debuffs: -10% spell resistance for 10 seconds.
+Requirements: 15 mana points.
+
+Stealth:
+Properties: Invisibility, silence.
+Traits: Allows avoidance of detection.
+Usable By: Rogues, Assassins, Scouts; Monsters: Stealthy Assassins, Shadows.
+Effects: Becomes invisible for 15 seconds.
+Buffs: +20% evasion for 15 seconds.
+Debuffs: None.
+Requirements: 12 mana points.
+
+Archery:
+Properties: Ranged damage, requires precision.
+Traits: High accuracy, applies status effects.
+Usable By: Rangers, Hunters; Monsters: Goblin Archers, Elven Rangers.
+Effects: Deals 50% DEX damage.
+Buffs: +30% damage on the next shot.
+Debuffs: Target slow (-20% movement speed for 5 seconds).
+Requirements: 8 mana points.
+
+Healing:
+Properties: Restores health.
+Traits: Can target self or allies, dependent on WIS.
+Usable By: Clerics, Druids, Paladins; Monsters: Healers, Clerical Undead.
+Effects: Restores 50 HP.
+Buffs: +10% max health for 1 hour.
+Debuffs: None.
+Requirements: 10 mana points.
+
+Alchemy:
+Properties: Crafting potions, item manipulation.
+Traits: Can create buffs or poisons.
+Usable By: Alchemists, Druids, Witches; Monsters: Alchemical Constructs.
+Effects: Creates a potion that restores 30 HP.
+Buffs: +10% to various stats for 1 hour.
+Debuffs: Poisons (5 damage per second for 10 seconds).
+Requirements: 15 mana points.
+
+Summoning:
+Properties: Calls creatures to aid.
+Traits: Requires knowledge of creatures, consumes resources.
+Usable By: Summoners, Necromancers; Monsters: Summoned Beasts, Demon Minions.
+Effects: Summons a creature to fight for 30 seconds.
+Buffs: Allies receive +15% damage for 10 seconds.
+Debuffs: Enemies may be frightened, reducing attack power by 20% for 5 seconds.
+Requirements: 20 mana points.
+
+Crafting:
+Properties: Creates weapons, armor, and items.
+Traits: Time-consuming, resource-based.
+Usable By: Artificers, Alchemists; Monsters: Construct Beasts.
+Effects: Creates a basic item (e.g., potion or weapon).
+Buffs: +10% item durability.
+Debuffs: None.
+Requirements: 5 mana points (and materials).
+
+Trap Disarming:
+Properties: Neutralizes traps.
+Traits: Requires precision and timing.
+Usable By: Rogues, Hunters; Monsters: None (generally not applicable to monsters).
+Effects: Disarms a trap.
+Buffs: +15% chance to spot traps for 10 seconds.
+Debuffs: None.
+Requirements: 8 mana points.
+
+Lockpicking:
+Properties: Opens locked doors or chests.
+Traits: Requires tools and skill.
+Usable By: Rogues, Assassins; Monsters: None.
+Effects: Successfully unlocks a target.
+Buffs: None.
+Debuffs: None.
+Requirements: 5 mana points.
+
+Negotiation:
+Properties: Influences NPCs or enemies.
+Traits: Charisma-based, can yield resources.
+Usable By: Bards, Clerics; Monsters: None.
+Effects: Increases chances of favorable trades.
+Buffs: +20% chance of favorable outcomes for 1 hour.
+Debuffs: None.
+Requirements: 6 mana points.
+
+Survival:
+Properties: Enhances ability to endure in the wild.
+Traits: Increases resource gathering and tracking.
+Usable By: Rangers, Druids; Monsters: Wild Beasts.
+Effects: Increases resource gathering rate by 25%.
+Buffs: None.
+Debuffs: None.
+Requirements: 4 mana points.
+
+Animal Handling:
+Properties: Communicates and controls animals.
+Traits: Boosts relationships with beasts.
+Usable By: Druids, Rangers; Monsters: Beastmasters, Animal Companions.
+Effects: Temporarily calms or commands an animal.
+Buffs: +15% effectiveness of animal companions for 10 seconds.
+Debuffs: None.
+Requirements: 10 mana points.
+
+Fire Manipulation:
+Properties: Controls fire.
+Traits: Area damage, can ignite targets.
+Usable By: Mages, Sorcerers, Elementalists; Monsters: Fire Elementals, Pyromancers.
+Effects: Deals 70% INT fire damage in an area.
+Buffs: +20% fire damage for 10 seconds.
+Debuffs: Burns target (5 damage per second for 5 seconds).
+Requirements: 12 mana points.
+
+Ice Manipulation:
+Properties: Controls ice.
+Traits: Freezes targets, crowd control.
+Usable By: Mages, Sorcerers, Elementalists; Monsters: Ice Elementals, Frost Mages.
+Effects: Deals 60% INT ice damage and may freeze.
+Buffs: -30% enemy speed for 10 seconds.
+Debuffs: Freeze effect (immobilizes target for 3 seconds).
+Requirements: 12 mana points.
+
+Earth Manipulation:
+Properties: Controls earth and stone.
+Traits: Defense and crowd control.
+Usable By: Mages, Druids, Elementalists; Monsters: Earth Elementals, Stone Golems.
+Effects: Deals 50% INT earth damage and creates a barrier.
+Buffs: +20% defense for allies for 10 seconds.
+Debuffs: Stuns target (immobilizes for 2 seconds).
+Requirements: 12 mana points.
+
+Wind Manipulation:
+Properties: Controls wind.
+Traits: Buffs allies and disrupts enemies.
+Usable By: Mages, Sorcerers, Elementalists; Monsters: Wind Spirits, Air Elementals.
+Effects: Deals 40% INT wind damage and increases ally speed.
+Buffs: +30% movement speed for allies for 10 seconds.
+Debuffs: -15% enemy accuracy for 10 seconds.
+Requirements: 12 mana points.
+
+Shadow Manipulation:
+Properties: Controls shadows and darkness.
+Traits: Stealth and misdirection.
+Usable By: Rogues, Assassins, Necromancers; Monsters: Shadow Creatures.
+Effects: Deals 40% DEX shadow damage and obscures vision.
+Buffs: +30% stealth effectiveness for 15 seconds.
+Debuffs: -20% accuracy for enemies for 10 seconds.
+Requirements: 12 mana points.
+
+Illusion Casting:
+Properties: Creates illusions to deceive.
+Traits: Distracts or confuses enemies.
+Usable By: Mages, Bards, Tricksters; Monsters: Illusionists, Trickster Spirits.
+Effects: Creates an illusion to distract enemies.
+Buffs: +20% evasion for allies for 10 seconds.
+Debuffs: Confuses enemies (-20% to all actions for 5 seconds).
+Requirements: 15 mana points.
+
+Enchanting:
+Properties: Enhances items with magical properties.
+Traits: Requires materials and knowledge.
+Usable By: Mages, Artificers; Monsters: Enchanted Constructs.
+Effects: Grants an item a temporary buff.
+Buffs: +15% effectiveness of the enchanted item.
+Debuffs: None.
+Requirements: 12 mana points (and materials).
+
+Divination:
+Properties: Gains insight or knowledge.
+Traits: Can reveal hidden things.
+Usable By: Clerics, Mages; Monsters: Oracle Creatures.
+Effects: Reveals hidden paths or treasures.
+Buffs: +20% chance to find hidden items for 30 minutes.
+Debuffs: None.
+Requirements: 10 mana points.
+
+Necromancy:
+Properties: Raises the dead.
+Traits: Can manipulate undead.
+Usable By: Necromancers; Monsters: Undead Creatures, Zombie Summoners.
+Effects: Raises a fallen enemy as a temporary ally.
+Buffs: +15% damage to undead allies.
+Debuffs: None.
+Requirements: 20 mana points.
+
+Battle Cry:
+Properties: Inspires allies, intimidates enemies.
+Traits: Boosts morale.
+Usable By: Warriors, Paladins; Monsters: War Beasts.
+Effects: Temporarily increases ally attack power.
+Buffs: +20% attack for 15 seconds.
+Debuffs: -15% morale for enemies for 10 seconds.
+Requirements: 8 mana points.
+
+Shield Block:
+Properties: Defensive maneuver.
+Traits: Reduces incoming damage.
+Usable By: Warriors, Paladins; Monsters: Defensive Beasts, Armored Creatures.
+Effects: Reduces damage taken by 50% for 5 seconds.
+Buffs: None.
+Debuffs: None.
+Requirements: 6 mana points.
+
+Poisoning:
+Properties: Applies poison effects.
+Traits: Damage over time.
+Usable By: Assassins, Alchemists; Monsters: Venomous Creatures.
+Effects: Deals damage over time.
+Buffs: None.
+Debuffs: -10% max health for the duration.
+Requirements: 8 mana points.
+
+Counterattack:
+Properties: Retaliates when hit.
+Traits: Requires timing.
+Usable By: Warriors, Rogues; Monsters: Berserkers.
+Effects: Deals damage equal to 50% of the incoming hit.
+Buffs: None.
+Debuffs: None.
+Requirements: 10 mana points.
+
+Aura of Protection:
+Properties: Provides a protective shield to allies.
+Traits: Area of effect.
+Usable By: Clerics, Paladins; Monsters: Guardian Spirits.
+Effects: Grants a shield that absorbs 30 damage.
+Buffs: +10% defense for allies for 10 seconds.
+Debuffs: None.
+Requirements: 12 mana points.
+
+Combat Meditation:
+Properties: Regains energy or health.
+Traits: Requires focus, not usable in combat.
+Usable By: Monks, Clerics; Monsters: None.
+Effects: Restores 30 mana or 25 HP.
+Buffs: None.
+Debuffs: None.
+Requirements: 5 mana points.
+
+Elemental Shield:
+Properties: Protects against elemental damage.
+Traits: Temporary damage reduction.
+Usable By: Mages, Elementalists; Monsters: Elemental Guardians.
+Effects: Reduces elemental damage taken by 50% for 10 seconds.
+Buffs: +20% resistance to a chosen element for 10 seconds.
+Debuffs: None.
+Requirements: 15 mana points.

@@ -1,0 +1,926 @@
+Quests:-
+Character Quests (50)
+The Lost Artifact:
+Objective: Retrieve a stolen ancient artifact from a goblin den.
+Approach: Navigate through the forest, defeat goblin guards, and locate the artifact hidden in a chest.
+Reward: 500 XP, 100 Gold.
+
+Defend the Village:
+Objective: Protect a village from a bandit raid.
+Approach: Rally the villagers, set traps, and defeat the bandit leader.
+Reward: 700 XP, 150 Gold.
+
+Herbalist’s Apprentice:
+Objective: Gather rare herbs for a local herbalist.
+Approach: Explore the enchanted forest to find specific plants while avoiding magical creatures.
+Reward: 300 XP, 50 Gold, Herbalist Kit.
+
+A Test of Strength:
+Objective: Compete in a local gladiatorial arena.
+Approach: Win three battles against progressively tougher opponents.
+Reward: 800 XP, 200 Gold, Shield of Valor.
+
+The Necromancer’s Plot:
+Objective: Investigate disturbances caused by a necromancer in the nearby ruins.
+Approach: Explore the ruins, defeat undead minions, and confront the necromancer.
+Reward: 900 XP, 250 Gold, Spellbook.
+
+Fishing for Trouble:
+Objective: Help fishermen deal with a giant sea serpent.
+Approach: Engage the sea serpent in combat while supporting the fishermen.
+Reward: 600 XP, 150 Gold, Fishing Rod.
+
+The Enchanted Grove:
+Objective: Restore balance to a corrupted grove by defeating a dark spirit.
+Approach: Find the spirit’s lair and defeat it using nature-based magic.
+Reward: 750 XP, 200 Gold, Elixir of Strength.
+
+Mystery of the Missing Merchants:
+Objective: Investigate the disappearance of several merchants.
+Approach: Gather clues, interrogate witnesses, and track down a bandit hideout.
+Reward: 500 XP, 120 Gold.
+
+An Ancient Challenge:
+Objective: Solve a series of riddles posed by a sphinx.
+Approach: Answer the sphinx’s riddles correctly to gain access to treasure.
+Reward: 400 XP, 80 Gold, Gem of Focus.
+
+The Siege:
+Objective: Assist in defending a castle from an attacking army.
+Approach: Man the walls, lead counterattacks, and rally troops.
+Reward: 1000 XP, 300 Gold.
+
+Druid’s Call:
+Objective: Help a druid restore a dying forest.
+Approach: Collect magical seeds and plant them in designated areas.
+Reward: 700 XP, 150 Gold, Herbalist Kit.
+
+The Haunted Castle:
+Objective: Explore a castle rumored to be haunted.
+Approach: Investigate the castle, dispel ghosts, and uncover its history.
+Reward: 600 XP, 100 Gold, Cloak of Shadows.
+
+The Elemental Trials:
+Objective: Complete trials set by elemental spirits.
+Approach: Defeat elemental creatures and solve elemental puzzles.
+Reward: 800 XP, 250 Gold.
+
+Assassinate the Traitor:
+Objective: Eliminate a traitor threatening the kingdom.
+Approach: Gather information, stealthily infiltrate their hideout, and execute the mission.
+Reward: 900 XP, 200 Gold.
+
+Rescue Mission:
+Objective: Rescue villagers kidnapped by trolls.
+Approach: Track the trolls to their cave and defeat them to free the captives.
+Reward: 800 XP, 250 Gold.
+
+Dragon’s Hoard:
+Objective: Retrieve treasure from a sleeping dragon.
+Approach: Sneak into the lair and avoid waking the dragon.
+Reward: 1000 XP, 500 Gold, Ancient Artifact.
+
+The Witch’s Brew:
+Objective: Collect ingredients for a witch’s potion.
+Approach: Explore the swamp and gather rare items while avoiding monsters.
+Reward: 500 XP, 100 Gold, Potion of Wisdom.
+
+Trial by Fire:
+Objective: Survive a trial in a volcanic region.
+Approach: Navigate through lava flows and defeat fire elementals.
+Reward: 750 XP, 200 Gold, Fire Bomb.
+
+Stolen Goods:
+Objective: Recover stolen goods from a bandit camp.
+Approach: Infiltrate the camp and retrieve the items while fighting off bandits.
+Reward: 600 XP, 150 Gold.
+
+The Elven War:
+Objective: Mediate a conflict between two elven factions.
+Approach: Gather intel and persuade both sides to reach a peaceful agreement.
+Reward: 800 XP, 200 Gold.
+
+Guardian of the Grove:
+Objective: Protect a sacred grove from deforestation.
+Approach: Fight off loggers and convince them to leave.
+Reward: 600 XP, 120 Gold.
+
+The Lost Tribe:
+Objective: Find a missing tribe in the mountains.
+Approach: Track their last known location and rescue them from danger.
+Reward: 900 XP, 300 Gold.
+
+Secrets of the Ancients:
+Objective: Uncover ancient secrets in a forgotten temple.
+Approach: Solve puzzles and defeat guardians to reveal the secrets.
+Reward: 700 XP, 200 Gold.
+
+The Vengeful Spirit:
+Objective: Lay a restless spirit to rest.
+Approach: Discover the spirit’s past and fulfill its last wish.
+Reward: 500 XP, 100 Gold.
+
+Bard’s Tale:
+Objective: Help a bard recover lost songs.
+Approach: Explore various locations for musical notes and defeat creatures.
+Reward: 400 XP, 80 Gold.
+
+Cursed Armor:
+Objective: Retrieve cursed armor from a haunted battlefield.
+Approach: Battle undead warriors guarding the armor.
+Reward: 600 XP, 150 Gold.
+
+The Blacksmith’s Apprentice:
+Objective: Assist a blacksmith in gathering rare ores.
+Approach: Venture into dangerous areas to mine ores while fighting monsters.
+Reward: 500 XP, 100 Gold, Weapon Upgrade.
+
+The Royal Ball:
+Objective: Gather information at a royal ball.
+Approach: Use charm and persuasion to uncover plots against the kingdom.
+Reward: 600 XP, 150 Gold.
+
+An Unexpected Alliance:
+Objective: Form an alliance with a rival faction.
+Approach: Negotiate terms and complete a task for them.
+Reward: 800 XP, 200 Gold.
+
+The Great Hunt:
+Objective: Participate in a grand hunting competition.
+Approach: Track and defeat specific legendary beasts.
+Reward: 1000 XP, 300 Gold, Trophy.
+
+Cult Investigation:
+Objective: Investigate a suspicious cult in the city.
+Approach: Gather intel and confront cult members.
+Reward: 700 XP, 200 Gold.
+
+Festival of the Gods:
+Objective: Participate in a local festival and complete challenges.
+Approach: Win mini-games and complete tasks.
+Reward: 400 XP, 100 Gold.
+
+Demon’s Bargain:
+Objective: Stop a demon from making a pact with a villager.
+Approach: Confront the demon and convince the villager to refuse the deal.
+Reward: 800 XP, 200 Gold.
+
+The Locket of Memories:
+Objective: Retrieve a family heirloom from a rival family.
+Approach: Infiltrate their estate and avoid detection.
+Reward: 600 XP, 150 Gold.
+
+The Alchemist’s Dilemma:
+Objective: Assist an alchemist in creating a powerful potion.
+Approach: Gather rare ingredients while fending off threats.
+Reward: 500 XP, 100 Gold.
+
+The Phantom Thief:
+Objective: Capture a notorious thief in the city.
+Approach: Set traps and gather information from informants.
+Reward: 700 XP, 200 Gold.
+
+The Raging River:
+Objective: Help villagers repair a dam after a storm.
+Approach: Gather resources and fight off aggressive wildlife.
+Reward: 500 XP, 150 Gold.
+
+Trial of the Ancients:
+Objective: Complete trials set by ancient spirits for a legendary weapon.
+Approach: Solve challenges and fight guardians.
+Reward: 1000 XP, Legendary Weapon.
+
+The Silent Forest:
+Objective: Investigate a forest where all sound has vanished.
+Approach: Discover the cause and defeat the creature responsible.
+Reward: 600 XP, 150 Gold.
+
+The Blood Moon:
+Objective: Prevent a ritual during the blood moon.
+Approach: Confront cultists and disrupt their ceremony.
+Reward: 800 XP, 200 Gold.
+
+A Diplomat’s Duty:
+Objective: Mediate peace talks between warring factions.
+Approach: Use diplomacy to resolve conflicts.
+Reward: 700 XP, 150 Gold.
+
+The Rival:
+Objective: Compete against a rival character in various challenges.
+Approach: Win competitions in combat, puzzles, and agility.
+Reward: 600 XP, 120 Gold.
+
+The Sunken Treasure:
+Objective: Recover treasure from a sunken ship.
+Approach: Dive underwater, avoid sea creatures, and retrieve the treasure.
+Reward: 900 XP, 300 Gold.
+
+The Forest’s Heart:
+Objective: Restore the heart of the forest after it was corrupted.
+Approach: Gather ingredients and perform a ritual.
+Reward: 800 XP, 200 Gold.
+
+The Bandit’s Bane:
+Objective: Eliminate a notorious bandit leader.
+Approach: Track the leader’s hideout and engage in battle.
+Reward: 900 XP, 250 Gold.
+
+A Scholar’s Request:
+Objective: Assist a scholar in finding ancient texts.
+Approach: Explore ruins and battle guardians.
+Reward: 600 XP, 150 Gold.
+
+The Thief’s Guild:
+Objective: Infiltrate a thief’s guild to recover stolen items.
+Approach: Use stealth and cunning to navigate the guild.
+Reward: 800 XP, 200 Gold.
+
+The Guardian Beast:
+Objective: Defeat a beast threatening a village.
+Approach: Track the beast and prepare for a fierce battle.
+Reward: 700 XP, 150 Gold.
+
+The Forgotten Relic:
+Objective: Find and return a forgotten relic to a temple.
+Approach: Solve puzzles in a labyrinthine cave.
+Reward: 800 XP, 200 Gold.
+
+A Hero’s Legacy:
+Objective: Complete the tasks of a fallen hero.
+Approach: Follow their path, face their challenges, and prove your worth.
+Reward: 1000 XP, Hero’s Legacy Armor.
+---------------------------------------------------------------------------------
+Monster Quests (50)
+Claim Your Territory:
+Objective: Defend your territory from invading creatures.
+Approach: Engage in combat and assert dominance.
+Reward: 500 XP, 100 Gold.
+
+Gather the Pack:
+Objective: Assemble a pack of allies for an upcoming hunt.
+Approach: Recruit other monsters through intimidation or persuasion.
+Reward: 300 XP, 50 Gold.
+
+Ritual of Power:
+Objective: Complete a ritual to enhance your abilities.
+Approach: Gather ingredients and perform the ritual at a sacred site.
+Reward: 700 XP, 200 Gold.
+
+Defend the Nest:
+Objective: Protect your nest from adventurers.
+Approach: Set traps and ambush intruders.
+Reward: 600 XP, 150 Gold.
+
+The Great Hunt:
+Objective: Lead a hunt to bring down a legendary beast.
+Approach: Track the beast and coordinate the attack with your pack.
+Reward: 900 XP, 250 Gold.
+
+Awaken the Ancients:
+Objective: Awaken ancient guardians to aid your quest.
+Approach: Gather relics and perform a summoning ritual.
+Reward: 800 XP, 200 Gold.
+
+Corruption of the Woods:
+Objective: Investigate the source of corruption in your territory.
+Approach: Track the source and eliminate threats.
+Reward: 500 XP, 100 Gold.
+
+The Bounty Hunter:
+Objective: Defend against a powerful bounty hunter targeting you.
+Approach: Prepare traps and confront the hunter.
+Reward: 700 XP, 200 Gold.
+
+Feast of the Fallen:
+Objective: Celebrate a successful hunt with a feast.
+Approach: Gather food and fend off intruders.
+Reward: 400 XP, 80 Gold.
+
+The Guardian's Challenge:
+Objective: Face the Guardian of the Forest in combat.
+Approach: Prove your strength and emerge victorious.
+Reward: 1000 XP, Legendary Item.
+
+A Hunter’s Revenge:
+Objective: Track down a hunter who injured you.
+Approach: Follow their trail and ambush them.
+Reward: 600 XP, 150 Gold.
+
+The Cursed Woods:
+Objective: Investigate the source of a curse affecting your territory.
+Approach: Battle cursed creatures and find the source.
+Reward: 800 XP, 200 Gold.
+
+Alliance with Shadows:
+Objective: Form an alliance with a rival monster faction.
+Approach: Negotiate terms and assist in a task.
+Reward: 700 XP, 150 Gold.
+
+The Challenge of Strength:
+Objective: Compete against other monsters in a strength contest.
+Approach: Prove your might through various challenges.
+Reward: 500 XP, 100 Gold.
+
+Sacred Grounds:
+Objective: Protect sacred grounds from adventurers.
+Approach: Set traps and ambush intruders.
+Reward: 600 XP, 150 Gold.
+
+The Beast Within:
+Objective: Master your inner beast to unlock new abilities.
+Approach: Complete trials and prove your worth.
+Reward: 700 XP, 200 Gold.
+
+The Lair of Darkness:
+Objective: Explore a dark lair and claim it as your own.
+Approach: Defeat the guardian and take over.
+Reward: 800 XP, 250 Gold.
+
+The Dance of Shadows:
+Objective: Perform a ritual dance to summon shadow creatures.
+Approach: Gather ingredients and complete the dance.
+Reward: 600 XP, 150 Gold.
+
+Rivalry:
+Objective: Settle a rivalry with another monster.
+Approach: Engage in a duel or challenge.
+Reward: 500 XP, 100 Gold.
+
+The Summoning:
+Objective: Summon a powerful ally to assist in your quests.
+Approach: Gather rare items and perform the summoning ritual.
+Reward: 900 XP, 300 Gold.
+
+The Great Migration:
+Objective: Lead your kind on a migration to a new territory.
+Approach: Overcome obstacles and fend off predators.
+Reward: 600 XP, 150 Gold.
+
+Territory War:
+Objective: Expand your territory by conquering rivals.
+Approach: Engage in battles and claim lands.
+Reward: 800 XP, 200 Gold.
+
+The Old Ones:
+Objective: Seek the wisdom of ancient monsters.
+Approach: Journey to their lair and complete their tasks.
+Reward: 700 XP, 150 Gold.
+
+The Elemental Challenge:
+Objective: Overcome elemental trials to gain power.
+Approach: Face elemental guardians and prove your strength.
+Reward: 900 XP, 250 Gold.
+
+The Dark Ritual:
+Objective: Prevent a dark ritual from being completed.
+Approach: Sabotage the ritual and confront the summoners.
+Reward: 800 XP, 200 Gold.
+
+The Guardian’s Task:
+Objective: Complete a task set by a guardian spirit.
+Approach: Fulfill the task to earn their favor.
+Reward: 600 XP, 150 Gold.
+
+The Shadow’s Embrace:
+Objective: Embrace the shadows to gain stealth abilities.
+Approach: Complete tasks in darkness and prove your skills.
+Reward: 500 XP, 100 Gold.
+
+The Beastmaster:
+Objective: Challenge a beastmaster to prove your dominance.
+Approach: Engage in combat with their beasts and master the challenge.
+Reward: 800 XP, 200 Gold.
+
+The Ancient Artifact:
+Objective: Retrieve an ancient artifact from ruins.
+Approach: Navigate traps and battle guardians.
+Reward: 700 XP, 150 Gold.
+
+The Harvest Moon:
+Objective: Prepare for a harvest moon celebration.
+Approach: Gather food and fend off predators.
+Reward: 600 XP, 100 Gold.
+
+The Lost Friend:
+Objective: Find a lost companion from your pack.
+Approach: Follow their trail and confront dangers along the way.
+Reward: 500 XP, 100 Gold.
+
+The Wretched Foe:
+Objective: Defeat a rival monster threatening your territory.
+Approach: Track them down and engage in battle.
+Reward: 700 XP, 200 Gold.
+
+The Protector’s Legacy:
+Objective: Take on the mantle of a fallen protector.
+Approach: Complete their challenges to prove your worth.
+Reward: 900 XP, 300 Gold.
+
+The Beast Within:
+Objective: Unlock hidden powers by facing your fears.
+Approach: Overcome personal challenges in the wild.
+Reward: 800 XP, 250 Gold.
+
+The Alliance of Beasts:
+Objective: Form alliances with other monsters for a greater cause.
+Approach: Complete quests for them to gain their trust.
+Reward: 600 XP, 150 Gold.
+
+The Curse of the Fallen:
+Objective: Break a curse placed upon your pack.
+Approach: Gather items to reverse the curse.
+Reward: 700 XP, 200 Gold.
+
+The Blood Pact:
+Objective: Honor a pact with another monster faction.
+Approach: Complete a shared task to strengthen bonds.
+Reward: 600 XP, 150 Gold.
+
+The Keeper of Secrets:
+Objective: Discover the secrets of an ancient lair.
+Approach: Solve puzzles and avoid traps.
+Reward: 900 XP, 300 Gold.
+
+The Wild Hunt:
+Objective: Participate in a wild hunt for glory.
+Approach: Track and capture the target.
+Reward: 800 XP, 250 Gold.
+
+The Protector’s Oath:
+Objective: Defend a sacred site from invaders.
+Approach: Set traps and fight off enemies.
+Reward: 700 XP, 200 Gold.
+
+The Beastly Trial:
+Objective: Survive a trial set by other monsters.
+Approach: Overcome challenges to prove your worth.
+Reward: 800 XP, 200 Gold.
+
+The Raging Storm:
+Objective: Control the power of a storm to gain strength.
+Approach: Complete tasks during a thunderstorm.
+Reward: 600 XP, 150 Gold.
+
+The Hunt for Food:
+Objective: Gather food for your pack during a scarcity.
+Approach: Hunt and scavenge while avoiding dangers.
+Reward: 500 XP, 100 Gold.
+
+The Underworld Challenge:
+Objective: Face foes in the underworld for power.
+Approach: Fight through levels and defeat bosses.
+Reward: 900 XP, 300 Gold.
+
+The Elemental Fury:
+Objective: Defend against an elemental invasion.
+Approach: Gather allies and confront the invaders.
+Reward: 800 XP, 200 Gold.
+
+The Echo of the Past:
+Objective: Uncover the history of a lost civilization.
+Approach: Explore ruins and solve historical mysteries.
+Reward: 700 XP, 150 Gold.
+
+The Shadow Realm:
+Objective: Enter the shadow realm to retrieve a lost ally.
+Approach: Navigate dangers and confront shadow creatures.
+Reward: 900 XP, 300 Gold.
+
+The Challenge of Time:
+Objective: Overcome a time-based challenge to gain wisdom.
+Approach: Solve puzzles and face time guardians.
+Reward: 600 XP, 150 Gold.
+
+The Awakening:
+Objective: Awaken dormant powers within yourself.
+Approach: Complete personal trials and confront your fears.
+Reward: 800 XP, 200 Gold.
+
+The Final Stand:
+Objective: Defend your home against an overwhelming force.
+Approach: Rally allies and prepare for a decisive battle.
+Reward: 1000 XP, 500 Gold.
+
+Quests - Characters and Monsters:-
+
+Character Quests Allocation
+Warrior:
+The Hero’s Journey
+Defend the Realm
+The Bandit’s Bane
+A Hero’s Legacy
+The Challenge of Strength
+
+Mage:
+Lost Relics
+Ritual of Power
+The Elemental Challenge
+The Forgotten Relic
+Awaken the Ancients
+
+Rogue:
+The Shadow’s Revenge
+The Thief’s Guild
+A Diplomat’s Duty
+Uncovering Secrets
+The Dark Ritual
+
+Merchant:
+A Merchant's Dilemma
+The Silent Forest
+The Sunken Treasure
+The Cursed Woods
+The Great Hunt
+
+Ranger:
+Winds of Change
+The Forest’s Heart
+Gather the Pack
+The Great Hunt
+The Harvest Moon
+
+Priest:
+The Ancient Prophecy
+A Call to Arms
+The Elemental Fury
+The Final Stand
+The Keeper of Secrets
+
+Scholar:
+Uncovering Secrets
+The Trial of the Ancients
+A Scholar’s Request
+The Echo of the Past
+The Lost Relics
+
+Paladin:
+Defend the Realm
+A Hero’s Legacy
+The Blood Pact
+The Protector’s Oath
+The Final Stand
+
+Knight:
+A Call to Arms
+The Guardian’s Challenge
+The Lost Friend
+The Protector’s Legacy
+The Dance of Shadows
+
+Bard:
+Trial of the Ancients
+The Wild Hunt
+The Shadow’s Embrace
+A Diplomat’s Duty
+The Rival
+
+Gladiator:
+The Blood Moon
+The Challenge of Strength
+The Great Hunt
+The Guardian Beast
+The Trial of the Ancients
+
+Beastmaster:
+Gather the Pack
+The Beast Within
+The Harvest Moon
+Defend the Nest
+Claim Your Territory
+
+Druid:
+Corruption of the Woods
+The Forest’s Heart
+Awaken the Ancients
+The Elemental Fury
+The Great Migration
+
+Alchemist:
+A Scholar’s Request
+The Elemental Challenge
+The Lost Relics
+The Keeper of Secrets
+The Cursed Woods
+
+Assassin:
+The Shadow’s Revenge
+A Hunter’s Revenge
+The Thief’s Guild
+The Rival
+The Blood Pact
+
+Diplomat:
+A Diplomat’s Duty
+The Silent Forest
+The Great Hunt
+The Blood Pact
+Uncovering Secrets
+
+Legendary Hero:
+A Hero’s Legacy
+The Trial of the Ancients
+The Final Stand
+The Guardian’s Challenge
+The Blood Pact
+
+Vigilante:
+The Bounty Hunter
+The Shadow’s Revenge
+Claim Your Territory
+A Call to Arms
+The Dark Ritual
+
+Monster Hunter:
+The Great Hunt
+A Call to Arms
+The Blood Moon
+The Guardian Beast
+The Elemental Fury
+
+Animal Tamer:
+Gather the Pack
+The Beast Within
+Defend the Nest
+The Harvest Moon
+The Great Migration
+
+Warlock:
+Ritual of Power
+The Dark Ritual
+Awaken the Ancients
+The Keeper of Secrets
+The Blood Pact
+
+Explorer:
+The Sunken Treasure
+The Echo of the Past
+Uncovering Secrets
+A Scholar’s Request
+The Cursed Woods
+
+Necromancer:
+Awaken the Ancients
+The Dark Ritual
+The Blood Pact
+The Keeper of Secrets
+The Lair of Darkness
+
+Guardian:
+Defend the Realm
+The Protector’s Oath
+A Call to Arms
+The Final Stand
+The Challenge of Strength
+
+Beast Tamer:
+Defend the Nest
+The Great Migration
+The Wild Hunt
+The Guardian’s Challenge
+Claim Your Territory
+
+Druid:
+Corruption of the Woods
+The Forest’s Heart
+The Elemental Fury
+Awaken the Ancients
+The Great Migration
+
+Gladiator:
+The Blood Moon
+The Great Hunt
+The Challenge of Strength
+The Final Stand
+The Guardian Beast
+
+Knight:
+A Call to Arms
+The Lost Friend
+The Protector’s Legacy
+The Guardian’s Challenge
+The Blood Pact
+
+Assassin:
+The Shadow’s Revenge
+A Hunter’s Revenge
+The Thief’s Guild
+The Rival
+The Dark Ritual
+
+Explorer:
+The Sunken Treasure
+The Echo of the Past
+Uncovering Secrets
+A Scholar’s Request
+The Cursed Woods
+---------------------------------------------------------------------
+Monster Quests Allocation
+Dire Wolf:
+Claim Your Territory
+Gather the Pack
+The Great Hunt
+Defend the Nest
+The Beast Within
+
+Pack Leader:
+Gather the Pack
+The Guardian's Challenge
+The Migration
+The Great Hunt
+The Dance of Shadows
+
+Lesser Demon:
+Ritual of Power
+The Dark Ritual
+The Elemental Fury
+The Blood Pact
+The Final Stand
+
+Spider Queen:
+Defend the Nest
+The Cursed Woods
+The Lair of Darkness
+The Shadow Realm
+The Keeper of Secrets
+
+Alpha Predator:
+The Great Hunt
+Claim Your Territory
+The Guardian Beast
+The Harvest Moon
+The Beastmaster
+
+Ancient Spirit:
+Awaken the Ancients
+The Elemental Challenge
+The Old Ones
+The Trial of the Ancients
+The Shadow’s Embrace
+
+Forest Guardian:
+Corruption of the Woods
+Defend the Nest
+The Protector’s Oath
+The Guardian’s Task
+The Cursed Woods
+
+Night Stalker:
+The Bounty Hunter
+The Shadow’s Revenge
+The Challenge of Time
+The Wild Hunt
+The Dance of Shadows
+
+Revenant:
+A Hunter’s Revenge
+Territory War
+The Keeper of Secrets
+The Dark Ritual
+The Final Stand
+
+Cursed Beast:
+The Cursed Woods
+The Dance of Shadows
+The Elemental Challenge
+The Blood Moon
+The Great Migration
+
+Spirit Guardian:
+The Guardian’s Challenge
+The Protector’s Legacy
+The Harvest Moon
+The Elemental Fury
+The Keeper of Secrets
+
+Chimera:
+The Dance of Shadows
+The Shadow Realm
+The Wild Hunt
+The Guardian Beast
+The Great Migration
+
+Lesser Elemental:
+The Elemental Challenge
+Awaken the Ancients
+The Guardian’s Challenge
+The Cursed Woods
+The Great Hunt
+
+Fallen Guardian:
+The Keeper of Secrets
+The Shadow’s Embrace
+The Blood Pact
+The Dark Ritual
+The Final Stand
+
+Spirit Beast:
+The Harvest Moon
+Defend the Nest
+The Guardian’s Task
+The Elemental Fury
+The Beast Within
+
+Wraith:
+The Shadow Realm
+The Dark Ritual
+The Keeper of Secrets
+The Cursed Woods
+The Final Stand
+
+Elder Dragon:
+The Old Ones
+Awaken the Ancients
+The Guardian Beast
+The Elemental Challenge
+The Dance of Shadows
+
+Void Entity:
+The Summoning
+The Dark Ritual
+The Challenge of Time
+The Blood Pact
+The Lair of Darkness
+
+Scavenger:
+Feast of the Fallen
+The Great Migration
+The Harvest Moon
+Claim Your Territory
+The Protector’s Oath
+
+Cultist:
+The Dark Ritual
+The Blood Pact
+The Challenge of Strength
+The Keeper of Secrets
+The Final Stand
+
+Chimera:
+The Dance of Shadows
+The Shadow Realm
+The Wild Hunt
+The Guardian Beast
+The Great Migration
+
+Revenant:
+A Hunter’s Revenge
+Territory War
+The Keeper of Secrets
+The Dark Ritual
+The Final Stand
+
+Elder Dragon:
+The Old Ones
+Awaken the Ancients
+The Guardian Beast
+The Elemental Challenge
+The Dance of Shadows
+
+Void Entity:
+The Summoning
+The Dark Ritual
+The Challenge of Time
+The Blood Pact
+The Lair of Darkness
+
+Spirit Beast:
+The Harvest Moon
+Defend the Nest
+The Guardian’s Task
+The Elemental Fury
+The Beast Within
+
+Ancient Spirit:
+Awaken the Ancients
+The Elemental Challenge
+The Old Ones
+The Trial of the Ancients
+The Shadow’s Embrace
+
+Night Stalker:
+The Bounty Hunter
+The Shadow’s Revenge
+The Challenge of Time
+The Wild Hunt
+The Dance of Shadows
+
+Fallen Guardian:
+The Keeper of Secrets
+The Shadow’s Embrace
+The Blood Pact
+The Dark Ritual
+The Final Stand
+
+Cursed Beast:
+The Cursed Woods
+The Dance of Shadows
+The Elemental Challenge
+The Blood Moon
+The Great Migration
+
+Wraith:
+The Shadow Realm
+The Dark Ritual
+The Keeper of Secrets
+The Cursed Woods
+The Final Stand

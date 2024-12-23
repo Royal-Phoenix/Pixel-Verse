@@ -1,0 +1,604 @@
+Character Types:-
+Warrior
+Mage
+Rogue
+Ranger
+Paladin
+Bard
+Necromancer
+Druid
+Berserker
+Alchemist
+Knight
+Assassin
+Monk
+Sorcerer
+Hunter
+Summoner
+Brawler
+Cleric
+Templar
+Elementalist
+Trickster
+Shaman
+Witch
+Artificer
+Spellblade
+Scout
+Gladiator
+Riftwalker
+Bounty Hunter
+Runesmith
+
+Character Types with Abilities, Roles, and Quests:-
+Warrior:
+Abilities/Skills: Heavy melee combat, defensive tactics, intimidation.
+Role: Frontline tank and damage dealer.
+Quests: Protect a village from invaders, duel a rival warrior for honor.
+
+Mage:
+Abilities/Skills: Elemental magic, spell casting, arcane knowledge.
+Role: Ranged damage dealer and crowd controller.
+Quests: Retrieve an ancient spellbook, stop a rogue sorcerer.
+
+Rogue:
+Abilities/Skills: Stealth, lockpicking, critical strikes.
+Role: Sneaky damage dealer and scout.
+Quests: Steal a valuable item from a corrupt noble, infiltrate a bandit camp.
+
+Ranger:
+Abilities/Skills: Archery, animal companionship, survival skills.
+Role: Ranged attacker and tracker.
+Quests: Hunt down a dangerous beast, guide travelers through treacherous lands.
+
+Paladin:
+Abilities/Skills: Healing, holy magic, protective stances.
+Role: Support and frontline protector.
+Quests: Defend a sacred site, cleanse an area of corruption.
+
+Bard:
+Abilities/Skills: Music-based magic, charm, performance skills.
+Role: Support and crowd control.
+Quests: Perform at a royal event, gather allies through song.
+
+Necromancer:
+Abilities/Skills: Summoning undead, dark magic, curses.
+Role: Crowd controller and area damage dealer.
+Quests: Retrieve a powerful artifact from a haunted site, negotiate with spirits.
+
+Druid:
+Abilities/Skills: Nature magic, shapeshifting, herbalism.
+Role: Healer and nature protector.
+Quests: Restore a dying forest, negotiate peace between nature spirits and settlers.
+
+Berserker:
+Abilities/Skills: Rage attacks, melee damage boost, resilience.
+Role: High damage dealer with risk.
+Quests: Prove strength by defeating powerful foes, protect a tribe in a war.
+
+Alchemist:
+Abilities/Skills: Potion-making, chemical manipulation, transmutation.
+Role: Support and utility.
+Quests: Gather rare ingredients, create a potion to save a village.
+
+Knight:
+Abilities/Skills: Mounted combat, leadership, honor-bound skills.
+Role: Tank and protector.
+Quests: Rescue a captive, defend a fortress from siege.
+
+Assassin:
+Abilities/Skills: Silent takedowns, poisons, agility.
+Role: Stealthy damage dealer.
+Quests: Eliminate a corrupt official, retrieve stolen information.
+
+Monk:
+Abilities/Skills: Martial arts, meditation, spiritual energy.
+Role: Fast melee attacker and healer.
+Quests: Train with a master, protect a sacred temple.
+
+Sorcerer:
+Abilities/Skills: Wild magic, elemental control, spontaneous casting.
+Role: Ranged damage dealer.
+Quests: Control a magic surge, discover family secrets.
+
+Hunter:
+Abilities/Skills: Tracking, traps, ranged combat.
+Role: Scout and trapper.
+Quests: Track a mythical creature, set traps for poachers.
+
+Summoner:
+Abilities/Skills: Creature summoning, control over minions.
+Role: Area control and support.
+Quests: Summon a legendary creature, defend against a rival summoner.
+
+Brawler:
+Abilities/Skills: Hand-to-hand combat, grappling, toughness.
+Role: Close-quarters damage dealer.
+Quests: Win a brawl in an underground arena, defend a bar from thugs.
+
+Cleric:
+Abilities/Skills: Healing spells, divine magic, blessings.
+Role: Support and healer.
+Quests: Help a plague-stricken village, recover sacred relics.
+
+Templar:
+Abilities/Skills: Holy combat, shield tactics, leadership.
+Role: Frontline support and protector.
+Quests: Battle dark forces, protect a sacred site.
+
+Elementalist:
+Abilities/Skills: Mastery over elemental forces, area spells.
+Role: High damage dealer and crowd controller.
+Quests: Restore balance to elemental forces, defeat a rogue elementalist.
+
+Trickster:
+Abilities/Skills: Deception, illusion magic, agility.
+Role: Support and mischief-maker.
+Quests: Pull off a grand heist, trick a powerful foe.
+
+Shaman:
+Abilities/Skills: Spirit communication, elemental control, healing.
+Role: Support and nature guardian.
+Quests: Negotiate peace between spirits, perform a sacred ritual.
+
+Witch:
+Abilities/Skills: Potion-making, hexes, nature spells.
+Role: Caster with a focus on curses and enchantments.
+Quests: Break a curse, gather rare magical components.
+
+Artificer:
+Abilities/Skills: Gadget creation, engineering, invention.
+Role: Support with utility items.
+Quests: Create a powerful invention, repair a broken magical device.
+
+Spellblade:
+Abilities/Skills: Melee magic, weapon enchantment.
+Role: Versatile damage dealer.
+Quests: Master a powerful spell, defeat an enemy with your enchanted blade.
+
+Scout:
+Abilities/Skills: Stealth, tracking, reconnaissance.
+Role: Information gatherer.
+Quests: Scout enemy territory, locate hidden treasures.
+
+Gladiator:
+Abilities/Skills: Arena combat skills, showmanship, crowd control.
+Role: Crowd-pleasing damage dealer.
+Quests: Win the grand tournament, free fellow gladiators.
+
+Riftwalker:
+Abilities/Skills: Teleportation, dimensional travel, manipulation of space.
+Role: Versatile combatant and strategist.
+Quests: Explore new dimensions, seal rifts threatening the world.
+
+Bounty Hunter:
+Abilities/Skills: Tracking, capture techniques, negotiation.
+Role: Pursuer of targets.
+Quests: Capture a notorious criminal, solve a kidnapping case.
+
+Runesmith:
+Abilities/Skills: Rune crafting, enchanting, physical enhancement.
+Role: Crafting specialist and enhancer.
+Quests: Forge a legendary weapon, uncover lost runic secrets.
+
+Character Types with Assigned Numeric Stats:-
+Warrior:
+STR: 9
+DEX: 6
+INT: 2
+WIS: 5
+CON: 9
+CHA: 3
+
+Mage:
+STR: 1
+DEX: 5
+INT: 10
+WIS: 8
+CON: 5
+CHA: 5
+
+Rogue:
+STR: 4
+DEX: 9
+INT: 5
+WIS: 3
+CON: 5
+CHA: 5
+
+Ranger:
+STR: 5
+DEX: 9
+INT: 4
+WIS: 6
+CON: 5
+CHA: 3
+
+Paladin:
+STR: 8
+DEX: 5
+INT: 4
+WIS: 8
+CON: 9
+CHA: 6
+
+Bard:
+STR: 2
+DEX: 6
+INT: 5
+WIS: 4
+CON: 5
+CHA: 10
+
+Necromancer:
+STR: 2
+DEX: 5
+INT: 9
+WIS: 5
+CON: 3
+CHA: 8
+
+Druid:
+STR: 5
+DEX: 4
+INT: 6
+WIS: 9
+CON: 5
+CHA: 5
+
+Berserker:
+STR: 10
+DEX: 5
+INT: 1
+WIS: 3
+CON: 10
+CHA: 2
+
+Alchemist:
+STR: 2
+DEX: 6
+INT: 9
+WIS: 5
+CON: 5
+CHA: 4
+
+Knight:
+STR: 9
+DEX: 4
+INT: 2
+WIS: 6
+CON: 9
+CHA: 5
+
+Assassin:
+STR: 5
+DEX: 10
+INT: 3
+WIS: 2
+CON: 5
+CHA: 5
+
+Monk:
+STR: 6
+DEX: 8
+INT: 3
+WIS: 9
+CON: 5
+CHA: 4
+
+Sorcerer:
+STR: 1
+DEX: 4
+INT: 10
+WIS: 6
+CON: 5
+CHA: 7
+
+Hunter:
+STR: 5
+DEX: 9
+INT: 2
+WIS: 6
+CON: 5
+CHA: 3
+
+Summoner:
+STR: 1
+DEX: 5
+INT: 10
+WIS: 5
+CON: 2
+CHA: 8
+
+Brawler:
+STR: 9
+DEX: 5
+INT: 1
+WIS: 3
+CON: 9
+CHA: 2
+
+Cleric:
+STR: 2
+DEX: 3
+INT: 5
+WIS: 10
+CON: 6
+CHA: 7
+
+Templar:
+STR: 9
+DEX: 3
+INT: 2
+WIS: 8
+CON: 9
+CHA: 5
+
+Elementalist:
+STR: 1
+DEX: 5
+INT: 10
+WIS: 6
+CON: 3
+CHA: 4
+
+Trickster:
+STR: 1
+DEX: 10
+INT: 5
+WIS: 2
+CON: 3
+CHA: 8
+
+Shaman:
+STR: 5
+DEX: 2
+INT: 6
+WIS: 9
+CON: 5
+CHA: 5
+
+Witch:
+STR: 1
+DEX: 4
+INT: 9
+WIS: 6
+CON: 4
+CHA: 8
+
+Artificer:
+STR: 2
+DEX: 6
+INT: 9
+WIS: 5
+CON: 5
+CHA: 3
+
+Spellblade:
+STR: 7
+DEX: 6
+INT: 7
+WIS: 4
+CON: 5
+CHA: 4
+
+Scout:
+STR: 2
+DEX: 10
+INT: 5
+WIS: 6
+CON: 3
+CHA: 2
+
+Gladiator:
+STR: 10
+DEX: 5
+INT: 1
+WIS: 3
+CON: 9
+CHA: 5
+
+Riftwalker:
+STR: 2
+DEX: 6
+INT: 9
+WIS: 5
+CON: 5
+CHA: 3
+
+Bounty Hunter:
+STR: 6
+DEX: 9
+INT: 4
+WIS: 3
+CON: 5
+CHA: 6
+
+Runesmith:
+STR: 2
+DEX: 5
+INT: 10
+WIS: 5
+CON: 6
+CHA: 2
+
+Character Stats:-
+Warrior:
+Speed: 5
+Gravity: Normal (1x)
+HP: 120
+MP: 30
+
+Berserker:
+Speed: 6
+Gravity: Normal (1x)
+HP: 140
+MP: 20
+
+Knight:
+Speed: 4
+Gravity: Normal (1x)
+HP: 150
+MP: 25
+
+Rogue:
+Speed: 8
+Gravity: Normal (1x)
+HP: 100
+MP: 35
+
+Assassin:
+Speed: 9
+Gravity: Normal (1x)
+HP: 90
+MP: 40
+
+Gladiator:
+Speed: 5
+Gravity: Normal (1x)
+HP: 130
+MP: 25
+
+Ranger:
+Speed: 7
+Gravity: Normal (1x)
+HP: 110
+MP: 30
+
+Hunter:
+Speed: 6
+Gravity: Normal (1x)
+HP: 100
+MP: 35
+
+Mage:
+Speed: 5
+Gravity: Normal (1x)
+HP: 80
+MP: 60
+
+Sorcerer:
+Speed: 5
+Gravity: Normal (1x)
+HP: 90
+MP: 70
+
+Necromancer:
+Speed: 4
+Gravity: Normal (1x)
+HP: 85
+MP: 80
+
+Elementalist:
+Speed: 5
+Gravity: Normal (1x)
+HP: 85
+MP: 75
+
+Druid:
+Speed: 6
+Gravity: Normal (1x)
+HP: 100
+MP: 65
+
+Cleric:
+Speed: 5
+Gravity: Normal (1x)
+HP: 95
+MP: 70
+
+Paladin:
+Speed: 4
+Gravity: Normal (1x)
+HP: 140
+MP: 40
+
+Alchemist:
+Speed: 5
+Gravity: Normal (1x)
+HP: 90
+MP: 60
+
+Bard:
+Speed: 6
+Gravity: Normal (1x)
+HP: 90
+MP: 75
+
+Artificer:
+Speed: 5
+Gravity: Normal (1x)
+HP: 85
+MP: 70
+
+Monk:
+Speed: 8
+Gravity: Normal (1x)
+HP: 100
+MP: 50
+
+Scout:
+Speed: 9
+Gravity: Normal (1x)
+HP: 80
+MP: 40
+
+Brawler:
+Speed: 7
+Gravity: Normal (1x)
+HP: 110
+MP: 25
+
+Sentinel:
+Speed: 4
+Gravity: Normal (1x)
+HP: 150
+MP: 20
+
+Fencer:
+Speed: 8
+Gravity: Normal (1x)
+HP: 90
+MP: 30
+
+Spellblade:
+Speed: 6
+Gravity: Normal (1x)
+HP: 100
+MP: 50
+
+Beastmaster:
+Speed: 6
+Gravity: Normal (1x)
+HP: 110
+MP: 40
+
+Guardian:
+Speed: 4
+Gravity: Normal (1x)
+HP: 160
+MP: 15
+
+Illusionist:
+Speed: 5
+Gravity: Normal (1x)
+HP: 85
+MP: 75
+
+Shadowmancer:
+Speed: 6
+Gravity: Normal (1x)
+HP: 80
+MP: 80
+
+Chronomancer:
+Speed: 5
+Gravity: Normal (1x)
+HP: 75
+MP: 90
+
+Oracle:
+Speed: 4
+Gravity: Normal (1x)
+HP: 80
+MP: 85

@@ -1,0 +1,90 @@
+1. Rune of Protection
+Effect: Creates a protective barrier against physical and magical attacks.
+Duration: 1 hour.
+2. Rune of Fire
+Effect: Engulfs the target in flames, causing fire damage.
+Duration: 5 minutes.
+3. Rune of Healing
+Effect: Accelerates the healing process of the target.
+Duration: 30 minutes.
+4. Rune of Speed
+Effect: Increases the movement speed of the target.
+Duration: 15 minutes.
+5. Rune of Illumination
+Effect: Creates a sphere of light that illuminates dark areas.
+Duration: 1 hour.
+6. Rune of Binding
+Effect: Temporarily restrains or immobilizes the target.
+Duration: 10 minutes.
+7. Rune of Insight
+Effect: Enhances perception and understanding of complex situations.
+Duration: 1 hour.
+8. Rune of Teleportation
+Effect: Allows the user to instantly travel to a previously marked location.
+Duration: Instant effect; can be used once.
+9. Rune of Summoning
+Effect: Calls forth a creature or spirit to assist the user.
+Duration: 1 hour or until dismissed.
+10. Rune of Silence
+Effect: Creates an area where sound cannot be produced or heard.
+Duration: 10 minutes.
+11. Rune of Strength
+Effect: Temporarily increases physical strength.
+Duration: 30 minutes.
+12. Rune of Clarity
+Effect: Clears the mind of distractions, enhancing focus.
+Duration: 1 hour.
+13. Rune of Frost
+Effect: Encases the target in ice, slowing movement.
+Duration: 5 minutes.
+14. Rune of Transformation
+Effect: Alters the physical form of the target for a short time.
+Duration: 1 hour.
+15. Rune of Time Slow
+Effect: Slows down time for the target, allowing for quicker reactions.
+Duration: 5 minutes.
+16. Rune of Shadows
+Effect: Cloaks the user in darkness, enhancing stealth.
+Duration: 10 minutes.
+17. Rune of Elemental Fury
+Effect: Channels elemental energy (fire, ice, lightning) into an attack.
+Duration: 1 use; effect lasts until the attack is made.
+18. Rune of Healing Light
+Effect: Heals minor wounds and ailments of the target.
+Duration: Instant effect; can be used once.
+19. Rune of Vision
+Effect: Grants the ability to see through walls or barriers.
+Duration: 5 minutes.
+20. Rune of Summoning Wind
+Effect: Creates a strong gust of wind, affecting movement and projectiles.
+Duration: 10 minutes.
+21. Rune of Regeneration
+Effect: Gradually restores health over time.
+Duration: 30 minutes.
+22. Rune of Binding Light
+Effect: Restrains an enemy with radiant energy.
+Duration: 5 minutes.
+23. Rune of Mind Shield
+Effect: Protects the user against mental attacks and illusions.
+Duration: 1 hour.
+24. Rune of the Beast
+Effect: Temporarily grants animal-like traits (enhanced senses, speed).
+Duration: 30 minutes.
+25. Rune of Celestial Guidance
+Effect: Enhances intuition, aiding in decision-making.
+Duration: 1 hour.
+26. Rune of Gravity
+Effect: Increases or decreases the weight of an object or target.
+Duration: 10 minutes.
+27. Rune of Echo
+Effect: Creates a duplicate sound or voice to distract or confuse.
+Duration: 5 minutes.
+28. Rune of Shielding Winds
+Effect: Creates a barrier of wind that deflects projectiles.
+Duration: 10 minutes.
+29. Rune of Memory
+Effect: Allows the user to recall lost memories or forgotten knowledge.
+Duration: 1 hour.
+30. Rune of Spirit Walk
+Effect: Allows the user to enter a trance and communicate with spirits.
+Duration: 30 minutes.

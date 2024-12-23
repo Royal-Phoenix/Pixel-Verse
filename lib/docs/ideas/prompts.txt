@@ -1,0 +1,20 @@
+i am developing a open world adventure game. I want u to list out the character types and skill types and trap types and monster types and object types that i can add to the game. I also want u to list 30 names under each type of each category
+now i want u to define the abilities and skills that a character can posses or acquire. Also define the role and quests for each of the character that u have given
+also define their stats
+i want u to assign numeric values to the stats
+now i want u to define the properties and traits for each of the skill types. Also defines what characters and what monsters can use what set of skills. Additionally, define the buffs and debuffs (if exists) for each skill along with the requirements to use the skill like mana points with numeric values
+i want u to do it again as u left out two things. Firstly, i asked u which set of characters and monsters can use the skill butt u have left monsters. Secondly, u have given 30 type of skills but defined for only 20. I want u to define for all 30 skills. I want u to craft the skills effects and mana required to use for each character and monster able to use that skill
+define the stats like speed, gravity, HP, MP for each characters
+again u have given only for 20 characters, I want u to remember that u have given 30 for each type. So, whenever I ask u u have to go refer all 30 of it and give me results
+now define the debuffs, duration and other effects for each of the given 30 trap types.
+now i want u to define the abilities and skills that a monster can posses or acquire. Also define the role and quests for each of the monster that u have given. Additionally, define stats for each monster with numeric values. Make sure to do all of the above for all 30 types of monsters u have given.
+now i want u to define the properties and traits for each of the object types. Also defines what buffs and debuffs (if exists) it gives to the user. Additionally, define the cost of the object (both in gold and gems) if it is to be purchased from shop. Make sure to do all of the above for all 30 types of objects u have given.
+now i want u to define some environment types where the characters, monsters and objects exists or can be found. Also, define the traits and properties of each environment along with the buffs and debuffs (if exists) to each of the character and monster u have given. Provide all of the above for each environment type and make it more descriptive.
+give me another 10 environment types
+now i want u to go through the 20 types of environments and give me the objects, monsters and characters (u have given me earlier) that exists in the environments for all the 20 types of environment u have given me.
+now i want u to go through the entire discussion thoroughly to ensure highest accuracy
+assume that both characters and monsters are playable for the users. define the quests for both characters (30 that u have given) and monsters (30 that u have given) clearly describing the approach to clear the quest and objective of the quest. the player (can be character or monster u have given me) can have multiple quests to level up gaining XP and Gold. Define the quest in more descriptive manner involving all the factors i have mentioned. Based on the above criteria, generate 100 unique and challenging quests
+now using the 100 (all 100 quests u have given me), allocate each quest to both the characters (30 that u have given) and monsters (30 that u have given).
+There can be multiple quests for each character and monster. Make sure each of them get allocated with proper number of quests (atleast 5).
+i want u to allocate all the 100 quests that u have given to all the 30 monsters and 30 characters that u have given me ensuring each of them get atleast 5 quests that suit their nature. In the end, u have to define it for all 30 characters and all 30 monsters that u have given me. Total 60.
+based on the all the discussion earlier, there are lots of things we discussed abt. Can u suggest me a way to get high quality assets for all the above characters, monsters, traps, objects, skills, quests, environments at complete free of cost

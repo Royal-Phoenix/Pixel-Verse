@@ -1,0 +1,11 @@
+export 'package:pixel_verse/components/traps/trap.dart';
+export 'package:pixel_verse/components/traps/falling_platform.dart';
+export 'package:pixel_verse/components/traps/fan.dart';
+export 'package:pixel_verse/components/traps/fire.dart';
+export 'package:pixel_verse/components/traps/platforms.dart';
+export 'package:pixel_verse/components/traps/rock_head.dart';
+export 'package:pixel_verse/components/traps/saw.dart';
+export 'package:pixel_verse/components/traps/spike_head.dart';
+export 'package:pixel_verse/components/traps/spiked_ball.dart';
+export 'package:pixel_verse/components/traps/spikes.dart';
+export 'package:pixel_verse/components/traps/trampoline.dart';

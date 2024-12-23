@@ -1,0 +1,13 @@
+Common Stats for All Characters:-
+
+Strength (STR): Determines physical power and melee attack damage.
+Dexterity (DEX): Affects agility, ranged attack accuracy, and evasion.
+Intelligence (INT): Influences magical attack power, spell effectiveness, and mana.
+Wisdom (WIS): Impacts healing abilities, magic resistance, and perception.
+Constitution (CON): Affects health points and resilience to damage.
+Charisma (CHA): Influences negotiation skills, leadership, and charm effectiveness.
+
+Speed: Affects movement and action speed.
+Gravity: Determines character interaction with the environment.
+HP: Total health points; 0 HP means incapacitation.
+MP: Mana points required for casting spells or using certain skills.

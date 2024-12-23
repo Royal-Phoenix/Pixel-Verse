@@ -1,0 +1,238 @@
+"Potions": {
+    "Health Potion": {
+        "HP": 20.0,
+        "_id": "Icon33",
+        "hitbox": [],
+        "duration": 1.0
+    },
+    "Heal Potion": {
+        "HP": 5.0,
+        "_id": "Icon25",
+        "hitbox": [],
+        "duration": 10.0
+    },
+    "Mana Potion": {
+        "MP": 10.0,
+        "_id": "Icon09",
+        "hitbox": [],
+        "duration": 1.0
+    },
+    "Life Potion": {
+        "HP": 25.0,
+        "MP": 15.0,
+        "_id": "Icon19",
+        "hitbox": [],
+        "duration": 1.0
+    },
+    "Magic Potion": {
+        "MP": 5.0,
+        "_id": "Icon42",
+        "hitbox": [],
+        "duration": 5.0
+    },
+    "Immunity Potion": {
+        // Adds a shield # Need asset for shield
+        "shieldHealth": 50,
+        "_id": "Icon36",
+        "hitbox": [],
+        "duration": 20.0
+    },
+    "Eternal Potion": {
+        // Nullify Damage
+        "_id": "Icon30",
+        "hitbox": [],
+        "duration": 10.0
+    },
+    "Survivor's Brew": {
+        "HP": 10.0,
+        "MP": 5.0,
+        "speed": +50.0,
+        "stealth": true,
+        "_id": "Icon35",
+        "hitbox": [],
+        "duration": 5.0
+    },
+    "Stealth Potion": {
+        "stealth": true,
+        "_id": "Icon37",
+        "hitbox": [],
+        "duration": 10.0
+    },
+    "Levitation Brew": {
+        // Maintain 10 unit height from ground
+        "_id": "Icon26",
+        "hitbox": [],
+        "duration": 10.0
+    },
+    "Speed Potion": {
+        "speed": 70,
+        "_id": "Icon16",
+        "hitbox": [],
+        "duration": 10.0
+    },
+    "Rage Potion": {
+        // Boost combat skills
+        "_id": "Icon13",
+        "hitbox": [],
+        "duration": 10.0
+    },
+    "Berserker’s Brew": {
+        // Boost combat skills and increase damage taken by 2 times
+        "_id": "Icon20",
+        "hitbox": [],
+        "duration": 10.0
+    },
+    "Wizard's Brew": {
+        // Dodge a Monster by cursing it (kill)
+        "_id": "Icon12",
+        "hitbox": [],
+        "curseLeft": +2
+    }
+}
+
+
+"Runes": {
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    },
+    "": {
+        "": ,
+        "": ,
+        "_id": "Icon__",
+        "hitbox": [],
+        "duration": .0
+    }
+}
+1. Rune of Protection
+Effect: Creates a protective barrier against physical and magical attacks.
+Duration: 1 hour.
+3. Rune of Healing
+Effect: Accelerates the healing process of the target.
+Duration: 30 minutes.
+4. Rune of Speed
+Effect: Increases the movement speed of the target.
+Duration: 15 minutes.
+8. Rune of Teleportation
+Effect: Allows the user to instantly travel to a previously marked location.
+Duration: Instant effect; can be used once.
+9. Rune of Summoning
+Effect: Calls forth a creature or spirit to assist the user.
+Duration: 1 hour or until dismissed.
+11. Rune of Strength
+Effect: Temporarily increases physical strength.
+Duration: 30 minutes.
+16. Rune of Shadows
+Effect: Cloaks the user in darkness, enhancing stealth.
+Duration: 10 minutes.
+17. Rune of Elemental Fury
+Effect: Channels elemental energy (fire, ice, lightning) into an attack.
+Duration: 1 use; effect lasts until the attack is made.
+18. Rune of Healing Light
+Effect: Heals minor wounds and ailments of the target.
+Duration: Instant effect; can be used once.
+21. Rune of Regeneration
+Effect: Gradually restores health over time.
+Duration: 30 minutes.
+22. Rune of Binding Light
+Effect: Restrains an enemy with radiant energy.
+Duration: 5 minutes.
+24. Rune of the Beast
+Effect: Temporarily grants animal-like traits (enhanced senses, speed).
+Duration: 30 minutes.
+25. Rune of Celestials
+Effect: Enhances intuition, aiding in decision-making.
+Duration: 1 hour.
+26. Rune of Gravity
+Effect: Increases or decreases the weight of an object or target.
+Duration: 10 minutes.
+28. Rune of Armor
+Effect: Creates a barrier of wind that deflects projectiles.
+Duration: 10 minutes.
+
+
+-------------------------------------------------------------------------------
+Wall Slide
+Double Jump
+Falling Platforms
+Spikes
+Rock Head
+Spiked Ball
+Chain
+Saw
+
+Create Thruster/Booster for Player like Power Boots
+Create Hand Gun for Player to shoot bullets at monsters to kill them and sabotage traps
+Defining Player's initial position
+Implementing scores for collecting fruits
+Introducing new game objects like potins, gems, etc for both players and monsters
+Defining gravity for monsters
+Creating the Generic classes for Monsters and Traps which acts as a super parent
+Introducing trap collisions for monsters to kill them
+Implementing every asset in the game
+Introducing unique abilities for players
+Introducing secret gates (dimension doors)
+Implementing menu for the game to customize the game
+Implementing database to store user data
+Implementing multiplayer feature
+
+Infinite Castle - Bonus Level (Infinite Wave): Switching between random levels using randomness
