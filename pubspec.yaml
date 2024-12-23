@@ -1,0 +1,106 @@
+name: pixel_verse
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+    sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+    flutter:
+        sdk: flutter
+
+    cupertino_icons: ^1.0.6
+    csv: ^6.0.0
+    flame: ^1.18.0
+    flame_audio: ^2.10.2
+    flame_tiled: ^1.20.2
+    socket_io_client: ^3.0.0
+
+dev_dependencies:
+    flutter_test:
+        sdk: flutter
+
+    flutter_lints: ^5.0.0
+
+flutter:
+    uses-material-design: true
+
+    assets:
+        # Audios
+        - assets/audio/
+        # Tile Maps
+        - assets/tiles/
+        # JSON Data
+        - assets/data/
+        # Map Terrains
+        - assets/images/Terrain/
+        # Game Backgrounds
+        - assets/images/Background/
+        # Game Controls
+        - assets/images/Controls/
+        # Game Menu Widgets
+        - assets/images/Menu/Buttons/
+        - assets/images/Menu/Levels/
+        - assets/images/Menu/Text/
+        # Players
+        - assets/images/Player/
+        - assets/images/Player/Gear/
+        - assets/images/Player/Mask Dude/
+        - assets/images/Player/Ninja Frog/
+        - assets/images/Player/Pink Man/
+        - assets/images/Player/Virtual Guy/
+        # Fruits
+        - assets/images/Items/Fruit/Apple/
+        - assets/images/Items/Fruit/Bananas/
+        - assets/images/Items/Fruit/Cherries/
+        - assets/images/Items/Fruit/Kiwi/
+        - assets/images/Items/Fruit/Melon/
+        - assets/images/Items/Fruit/Orange/
+        - assets/images/Items/Fruit/Pineapple/
+        - assets/images/Items/Fruit/Strawberry/
+        # Inventory
+        - assets/images/Menu/Inventory/
+        # Potions
+        - assets/images/Items/Potion/
+        # Traps
+        - assets/images/Trap/Arrow/
+        - assets/images/Trap/Blocks/
+        - assets/images/Trap/Chain/
+        - assets/images/Trap/Falling Platform/
+        - assets/images/Trap/Fan/
+        - assets/images/Trap/Fire/
+        - assets/images/Trap/Platform/Wooden Platform/
+        - assets/images/Trap/Platform/Steel Platform/
+        - assets/images/Trap/Rock Head/
+        - assets/images/Trap/Sand Mud Ice/
+        - assets/images/Trap/Saw/
+        - assets/images/Trap/Spike Head/
+        - assets/images/Trap/Spiked Ball/
+        - assets/images/Trap/Spikes/
+        - assets/images/Trap/Trampoline/
+        # Monsters
+        - assets/images/Monster/Angry Pig/
+        - assets/images/Monster/Bat/
+        - assets/images/Monster/Bee/
+        - assets/images/Monster/Blue Bird/
+        - assets/images/Monster/Bunny/
+        - assets/images/Monster/Chameleon/
+        - assets/images/Monster/Chicken/
+        - assets/images/Monster/Duck/
+        - assets/images/Monster/Fat Bird/
+        - assets/images/Monster/Ghost/
+        - assets/images/Monster/Mushroom/
+        - assets/images/Monster/Plant/
+        - assets/images/Monster/Radish/
+        - assets/images/Monster/Rhino/
+        - assets/images/Monster/Rock/
+        - assets/images/Monster/Skull/
+        - assets/images/Monster/Slime/
+        - assets/images/Monster/Snail/
+        - assets/images/Monster/Trunk/
+        - assets/images/Monster/Turtle/
+        # Checkpoints
+        - assets/images/Items/Game Point/Start Point/
+        - assets/images/Items/Game Point/End Point/
+        - assets/images/Items/Game Point/Check Point/
