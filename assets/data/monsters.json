@@ -1,0 +1,101 @@
+{
+    "Angry Pig": {
+        "fps": 0.05,
+        "HP": 100.0,
+        "MP": 100.0,
+        "XP": 10.0,
+        "gold": 10.0,
+        "gravity": 9.8,
+        "speed": 60.0,
+        "thrust": 260.0,
+        "damage": -10.0,
+        "hitbox": [4.0, 4.0, 28.0, 26.0],
+        "states": {
+            "Idle": [9, true],
+            "Walk": [16, true],
+            "Run": [12, true],
+            "Hit": [5, false],
+            "Crash": [5, false]
+        },
+        "current": "Idle",
+        "abilities": {}
+    },
+    "Chicken": {
+        "fps": 0.05,
+        "HP": 100.0,
+        "MP": 100.0,
+        "XP": 10.0,
+        "gold": 10.0,
+        "gravity": 9.8,
+        "speed": 80.0,
+        "thrust": 260.0,
+        "damage": -10.0,
+        "hitbox": [4.0, 6.0, 24.0, 26.0],
+        "states": {
+            "Idle": [13, true],
+            "Run": [14, true],
+            "Hit": [5, false]
+        },
+        "current": "Idle",
+        "abilities": {}
+    },
+    "Ghost": {
+        "fps": 0.05,
+        "HP": 100.0,
+        "MP": 100.0,
+        "XP": 10.0,
+        "gold": 10.0,
+        "gravity": 9.8,
+        "speed": 80.0,
+        "thrust": 260.0,
+        "damage": -10.0,
+        "hitbox": [8.0, 5.0, 27.0, 28.0],
+        "states": {
+            "Idle": [10, true],
+            "Appear": [4, false],
+            "Disappear": [4, false],
+            "Hit": [5, false]
+        },
+        "current": "Idle",
+        "abilities": {}
+    },
+    "Mushroom": {
+        "fps": 0.05,
+        "HP": 100.0,
+        "MP": 100.0,
+        "XP": 10.0,
+        "gold": 10.0,
+        "gravity": 9.8,
+        "speed": 80.0,
+        "thrust": 260.0,
+        "damage": -10.0,
+        "hitbox": [3.0, 13.0, 26.0, 28.0],
+        "states": {
+            "Idle": [14, true],
+            "Run": [16, true],
+            "Hit": [5, false]
+        },
+        "current": "Idle",
+        "abilities": {}
+    },
+    "Rhino": {
+        "fps": 0.05,
+        "HP": 100.0,
+        "MP": 100.0,
+        "XP": 10.0,
+        "gold": 10.0,
+        "gravity": 9.8,
+        "speed": 100.0,
+        "thrust": 260.0,
+        "damage": -10.0,
+        "hitbox": [2.0, 6.0, 44.0, 26.0],
+        "states": {
+            "Idle": [11, true],
+            "Run": [6, true],
+            "Hit": [5, false],
+            "Crash": [4, false]
+        },
+        "current": "Idle",
+        "abilities": {}
+    }
+}

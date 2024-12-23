@@ -1,0 +1,112 @@
+{
+    "Fan": {
+        "fps": 0.05,
+        "speed": 50.0,
+        "damage": 0.0,
+        "hitbox": [0.0, 0.0, 24.0, 8.0],
+        "states": {
+            "Off": [1, true],
+            "On": [4, true]
+        },
+        "current": "Off"
+    },
+    "Fire": {
+        "fps": 0.05,
+        "speed": 50.0,
+        "damage": -10.0,
+        "hitbox": [0.0, 16.0, 16.0, 16.0],
+        "states": {
+            "Off": [1, true],
+            "On": [4, true]
+        },
+        "current": "Off"
+    },
+    "Platform": {
+        "fps": 0.05,
+        "speed": 50.0,
+        "damage": 0.0,
+        "hitbox": [0.0, 0.0, 32.0, 10.0],
+        "states": {
+            "Off": [1, true],
+            "On": [4, true]
+        },
+        "current": "Off"
+    },
+    "Spike Head": {
+        "fps": 0.05,
+        "speed": 200.0,
+        "damage": -10.0,
+        "hitbox": [0.0, 0.0, 48.0, 48.0],
+        "states": {
+            "Idle": [1, true],
+            "Blink": [4, false],
+            "Hit": [4, false]
+        },
+        "current": "Idle"
+    },
+    "Spiked Ball": {
+        "fps": 0.05,
+        "speed": 90.0,
+        "damage": -10.0,
+        "hitbox": [],
+        "states": {
+            "Idle": [1, true]
+        },
+        "current": "Idle"
+    },
+    "Trampoline": {
+        "fps": 0.05,
+        "speed": 50.0,
+        "damage": 0.0,
+        "hitbox": [2.0, 17.0, 23.0, 11.0],
+        "states": {
+            "Off": [1, true],
+            "On": [4, true]
+        },
+        "current": "Off"
+    },
+    "Falling Platform": {
+        "fps": 0.05,
+        "speed": 50.0,
+        "damage": 0.0,
+        "hitbox": [0.0, 0.0, 32.0, 10.0],
+        "states": {
+            "Off": [1, true],
+            "On": [4, true]
+        },
+        "current": "On"
+    },
+    "Rock Head": {
+        "fps": 0.05,
+        "speed": 200.0,
+        "damage": 0.0,
+        "hitbox": [0.0, 0.0, 32.0, 32.0],
+        "states": {
+            "Idle": [1, true],
+            "Blink": [4, false],
+            "Hit": [4, false]
+        },
+        "current": "Idle"
+    },
+    "Saw": {
+        "fps": 0.03,
+        "speed": 50.0,
+        "damage": -10.0,
+        "hitbox": [],
+        "states": {
+            "Off": [1, true],
+            "On": [8, true]
+        },
+        "current": "On"
+    },
+    "Spikes": {
+        "fps": 1.0,
+        "speed": 0.0,
+        "damage": -5.0,
+        "hitbox": [0.0, 8.0, 16.0, 8.0],
+        "states": {
+            "Idle": [1, true]
+        },
+        "current": "Idle"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Ninja Frog": {
+        "gravity": 9.8,
+        "speed": 100.0,
+        "drag": 300.0,
+        "thrust": 260.0,
+        "HP": 100.0,
+        "MP": 100.0,
+        "skills": {}
+    },
+    "Mask Dude": {
+        "gravity": 9.8,
+        "speed": 100.0,
+        "drag": 300.0,
+        "thrust": 260.0,
+        "HP": 100.0,
+        "MP": 100.0,
+        "skills": {}
+    },
+    "Virtual Guy": {
+        "gravity": 9.8,
+        "speed": 100.0,
+        "drag": 300.0,
+        "thrust": 260.0,
+        "HP": 100.0,
+        "MP": 100.0,
+        "skills": {}
+    },
+    "Pink Man": {
+        "gravity": 9.8,
+        "speed": 100.0,
+        "drag": 300.0,
+        "thrust": 260.0,
+        "HP": 100.0,
+        "MP": 100.0,
+        "skills": {}
+    }
+}

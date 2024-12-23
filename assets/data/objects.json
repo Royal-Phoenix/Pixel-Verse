@@ -1,0 +1,141 @@
+{
+    "Box": {
+        "common": {
+            "fps": 0.05,
+            "current": "Idle",
+            "hitbox": [4.0, 2.0, 20.0, 20.0]
+        },
+        "Solid Box": {
+            "states": {
+                "Idle": [],
+                "Hit": [],
+                "Break": []
+            }
+        },
+        "Steel Box": {
+            "states": {
+                "Idle": [],
+                "Hit": [],
+                "Break": []
+            }
+        },
+        "Wooden Box": {
+            "states": {
+                "Idle": [],
+                "Hit": [],
+                "Break": []
+            }
+        }
+    },
+    "Fruit": {
+        "common": {
+            "fps": 0.05,
+            "current": "Idle",
+            "hitbox": [10.0, 10.0, 14.0, 14.0],
+            "states": {
+                "Idle": [17, true],
+                "Collected": [6, false]
+            }
+        },
+        "Apple": {
+            "effects": {
+                "HP": 10.0,
+                "MP": 0.0,
+                "XP": 0.0,
+                "gold": 0.0,
+                "duration": 1.0
+            }
+        },
+        "Bananas": {
+            "effects": {
+                "HP": 10.0,
+                "MP": 0.0,
+                "XP": 0.0,
+                "gold": 0.0,
+                "duration": 1.0
+            }
+        },
+        "Cherries": {
+            "effects": {
+                "HP": 10.0,
+                "MP": 0.0,
+                "XP": 0.0,
+                "gold": 0.0,
+                "duration": 1.0
+            }
+        },
+        "Kiwi": {
+            "effects": {
+                "HP": 10.0,
+                "MP": 0.0,
+                "XP": 0.0,
+                "gold": 0.0,
+                "duration": 1.0
+            }
+        },
+        "Melon": {
+            "effects": {
+                "HP": 10.0,
+                "MP": 0.0,
+                "XP": 0.0,
+                "gold": 0.0,
+                "duration": 1.0
+            }
+        },
+        "Orange": {
+            "effects": {
+                "HP": 10.0,
+                "MP": 0.0,
+                "XP": 0.0,
+                "gold": 0.0,
+                "duration": 1.0
+            }
+        },
+        "Pineapple": {
+            "effects": {
+                "HP": 10.0,
+                "MP": 0.0,
+                "XP": 0.0,
+                "gold": 0.0,
+                "duration": 1.0
+            }
+        },
+        "Strawberry": {
+            "effects": {
+                "HP": 10.0,
+                "MP": 0.0,
+                "XP": 0.0,
+                "gold": 0.0,
+                "duration": 1.0
+            }
+        }
+    },
+    "Game Point": {
+        "common": {
+            "fps": 0.05,
+            "current" : "Idle"
+        },
+        "Start Point": {
+            "hitbox": [19.0, 18.0, 9.0, 46.0],
+            "states": {
+                "Idle": [],
+                "Active": []
+            }
+        },
+        "Check Point": {
+            "hitbox": [19.0, 18.0, 9.0, 46.0],
+            "states": {
+                "Idle": [1, true],
+                "Active": [26, false],
+                "Passive": [10, true]
+            }
+        },
+        "End Point": {
+            "hitbox": [19.0, 18.0, 9.0, 46.0],
+            "states": {
+                "Idle": [],
+                "Active": []
+            }
+        }
+    }
+}

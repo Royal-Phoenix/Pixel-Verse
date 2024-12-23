@@ -1,0 +1,52 @@
+{
+    "Bullet": {},
+    "Potion": {
+        "common": {
+            "fps": 0.05
+        },
+        "Health Potion": {
+            "hitbox": [8.0, 4.0, 17.0, 24.0],
+            "HP": 20.0,
+            "duration": 1.0
+        },
+        "Heal Potion": {
+            "hitbox": [11.0, 4.0, 11.0, 24.0],
+            "HP": 2.5,
+            "duration": 10.0
+        },
+        "Mana Potion": {
+            "hitbox": [9.0, 4.0, 15.0, 24.0],
+            "MP": 10.0,
+            "duration": 1.0
+        },
+        "Life Potion": {
+            "hitbox": [9.0, 4.0, 14.0, 24.0],
+            "HP": 25.0,
+            "MP": 15.0,
+            "duration": 1.0
+        },
+        "Magic Potion": {
+            "hitbox": [12.0, 4.0, 9.0, 24.0],
+            "MP": 3.0,
+            "duration": 5.0
+        },
+        "Survivor's Brew": {
+            "hitbox": [9.0, 4.0, 15.0, 24.0],
+            "HP": 10.0,
+            "MP": 5.0,
+            "speed": 50.0,
+            "stealth": true,
+            "duration": 5.0
+        },
+        "Stealth Potion": {
+            "hitbox": [12.0, 4.0, 9.0, 24.0],
+            "stealth": true,
+            "duration": 10.0
+        },
+        "Speed Potion": {
+            "hitbox": [10.0, 4.0, 12.0, 24.0],
+            "speed": 70.0,
+            "duration": 10.0
+        }
+    }
+}
